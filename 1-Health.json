@@ -1,0 +1,293 @@
+[
+  {
+    "input": "請生成 1 題 國小一年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 2 題 國小一年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 3 題 國小一年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 4 題 國小一年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 5 題 國小一年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 6 題 國小一年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "option": ["", "", "", ""],
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 1 題 國小一年級健康概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 2 題 國小一年級健康概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 3 題 國小一年級健康概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 4 題 國小一年級健康概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 5 題 國小一年級健康概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 6 題 國小一年級健康概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  }
+]
