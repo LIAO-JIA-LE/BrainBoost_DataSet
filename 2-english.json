@@ -668,9 +668,9 @@
     "input": "請生成 1 題 國小二年級英文概念的是非題題目",
     "output": [
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "The sun rises in the west.",
+        "answer": "False",
+        "parse": "The sun rises in the east."
       }
     ]
   },
@@ -678,14 +678,14 @@
     "input": "請生成 2 題 國小二年級英文概念的是非題題目",
     "output": [
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Gold is a precious metal.",
+        "answer": "True",
+        "parse": "Gold is classified as a precious metal."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Bears hibernate during summer.",
+        "answer": "False",
+        "parse": "Bears hibernate during winter."
       }
     ]
   },
@@ -693,19 +693,19 @@
     "input": "請生成 3 題 國小二年級英文概念的是非題題目",
     "output": [
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "There are seven continents on Earth.",
+        "answer": "True",
+        "parse": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "The moon is a planet.",
+        "answer": "False",
+        "parse": "The moon is a natural satellite, not a planet."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Cows can produce milk.",
+        "answer": "True",
+        "parse": "Cows are known for their ability to produce milk."
       }
     ]
   },
@@ -713,24 +713,24 @@
     "input": "請生成 4 題 國小二年級英文概念的是非題題目",
     "output": [
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Mount Everest is the tallest mountain on Earth.",
+        "answer": "True",
+        "parse": "Mount Everest is the tallest mountain on Earth."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "A butterfly starts as a caterpillar.",
+        "answer": "True",
+        "parse": "A butterfly begins its life as a caterpillar."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "The Atlantic Ocean is smaller than the Pacific Ocean.",
+        "answer": "True",
+        "parse": "The Atlantic Ocean is smaller than the Pacific Ocean."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Rabbits can fly.",
+        "answer": "False",
+        "parse": "Rabbits cannot fly; they are ground animals."
       }
     ]
   },
@@ -738,29 +738,29 @@
     "input": "請生成 5 題 國小二年級英文概念的是非題題目",
     "output": [
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Goldfish are mammals.",
+        "answer": "False",
+        "parse": "Goldfish are not mammals; they are fish."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "An eagle is a type of bird.",
+        "answer": "True",
+        "parse": "An eagle is indeed a type of bird."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "The Pacific Ocean is the largest ocean on Earth.",
+        "answer": "True",
+        "parse": "The Pacific Ocean is the largest ocean."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Humans have five fingers on each hand.",
+        "answer": "True",
+        "parse": "Most humans have five fingers on each hand."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Bats are blind.",
+        "answer": "False",
+        "parse": "Bats are not blind; they can see, but they use echolocation to navigate."
       }
     ]
   },
@@ -768,34 +768,224 @@
     "input": "請生成 6 題 國小二年級英文概念的是非題題目",
     "output": [
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Jupiter is the smallest planet in the solar system.",
+        "answer": "False",
+        "parse": "Jupiter is the largest planet in the solar system."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "All snakes are venomous.",
+        "answer": "False",
+        "parse": "Not all snakes are venomous; some are harmless."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "The earth revolves around the sun.",
+        "answer": "True",
+        "parse": "The Earth revolves around the Sun."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "Penguins can swim.",
+        "answer": "True",
+        "parse": "Penguins are excellent swimmers."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "The Sahara is the largest desert in the world.",
+        "answer": "False",
+        "parse": "Antarctica is the largest desert in the world."
       },
       {
-        "question": "",
-        "answer": "",
-        "parse": ""
+        "question": "All fruits have seeds.",
+        "answer": "True",
+        "parse": "Most fruits have seeds, which are used for reproduction."
+      }
+    ]
+  },
+  {
+    "input": "請生成 7 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "The human body has four lungs.",
+        "answer": "False",
+        "parse": "The human body has two lungs."
+      },
+      {
+        "question": "Sharks are mammals.",
+        "answer": "False",
+        "parse": "Sharks are not mammals; they are fish."
+      },
+      {
+        "question": "The Great Wall of China is visible from space.",
+        "answer": "False",
+        "parse": "The Great Wall of China is not easily visible from space."
+      },
+      {
+        "question": "Venus is the hottest planet in our solar system.",
+        "answer": "True",
+        "parse": "Venus is the hottest planet in our solar system."
+      },
+      {
+        "question": "An octopus has eight legs.",
+        "answer": "True",
+        "parse": "An octopus has eight arms."
+      },
+      {
+        "question": "Lightning never strikes the same place twice.",
+        "answer": "False",
+        "parse": "Lightning can strike the same place multiple times."
+      },
+      {
+        "question": "The capital of Japan is Tokyo.",
+        "answer": "True",
+        "parse": "Tokyo is the capital city of Japan."
+      }
+    ]
+  },
+  {
+    "input": "請生成 8 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "The Earth is flat.",
+        "answer": "False",
+        "parse": "The Earth is not flat; it is an oblate spheroid."
+      },
+      {
+        "question": "Cats are mammals.",
+        "answer": "True",
+        "parse": "Cats belong to the class of mammals."
+      },
+      {
+        "question": "Water freezes at 0 degrees Celsius.",
+        "answer": "True",
+        "parse": "Water freezes at 0 degrees Celsius."
+      },
+      {
+        "question": "The sun rises in the west.",
+        "answer": "False",
+        "parse": "The sun rises in the east."
+      },
+      {
+        "question": "A triangle has four sides.",
+        "answer": "False",
+        "parse": "A triangle has three sides."
+      },
+      {
+        "question": "Birds can fly.",
+        "answer": "True",
+        "parse": "Most birds have the ability to fly."
+      },
+      {
+        "question": "The Pacific Ocean is the largest ocean on Earth.",
+        "answer": "True",
+        "parse": "The Pacific Ocean is indeed the largest ocean."
+      },
+      {
+        "question": "Humans have three lungs.",
+        "answer": "False",
+        "parse": "Humans have two lungs."
+      }
+    ]
+  },
+  {
+    "input": "請生成 9 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "Fish can swim.",
+        "answer": "True",
+        "parse": "Fish are adapted to swim in water."
+      },
+      {
+        "question": "A cat is a type of bird.",
+        "answer": "False",
+        "parse": "A cat is a mammal, not a bird."
+      },
+      {
+        "question": "There are 12 months in a year.",
+        "answer": "True",
+        "parse": "A year has 12 months."
+      },
+      {
+        "question": "An elephant is the largest land animal.",
+        "answer": "True",
+        "parse": "Elephants are the largest land animals."
+      },
+      {
+        "question": "The color of grass is usually red.",
+        "answer": "False",
+        "parse": "Grass is usually green."
+      },
+      {
+        "question": "A triangle has three sides.",
+        "answer": "True",
+        "parse": "A triangle has three sides."
+      },
+      {
+        "question": "Water is dry.",
+        "answer": "False",
+        "parse": "Water is wet, not dry."
+      },
+      {
+        "question": "Dogs can bark.",
+        "answer": "True",
+        "parse": "Dogs are known for barking."
+      },
+      {
+        "question": "The Earth is flat.",
+        "answer": "False",
+        "parse": "The Earth is round."
+      }
+    ]
+  },
+  {
+    "input": "請生成 10 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "The sun rises in the west.",
+        "answer": "False",
+        "parse": "The sun rises in the east."
+      },
+      {
+        "question": "Fish can swim.",
+        "answer": "True",
+        "parse": "Fish are adapted to swim in water."
+      },
+      {
+        "question": "A cat is a type of bird.",
+        "answer": "False",
+        "parse": "A cat is a mammal, not a bird."
+      },
+      {
+        "question": "There are 12 months in a year.",
+        "answer": "True",
+        "parse": "A year has 12 months."
+      },
+      {
+        "question": "An elephant is the largest land animal.",
+        "answer": "True",
+        "parse": "Elephants are the largest land animals."
+      },
+      {
+        "question": "The color of grass is usually red.",
+        "answer": "False",
+        "parse": "Grass is usually green."
+      },
+      {
+        "question": "A triangle has three sides.",
+        "answer": "True",
+        "parse": "A triangle has three sides."
+      },
+      {
+        "question": "Water is dry.",
+        "answer": "False",
+        "parse": "Water is wet, not dry."
+      },
+      {
+        "question": "Dogs can bark.",
+        "answer": "True",
+        "parse": "Dogs are known for barking."
+      },
+      {
+        "question": "The Earth is flat.",
+        "answer": "False",
+        "parse": "The Earth is round."
       }
     ]
   }
