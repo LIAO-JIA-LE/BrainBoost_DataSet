@@ -1,0 +1,802 @@
+[
+  {
+    "input": "請生成 1 題 國小二年級英文概念的選擇題題目",
+    "output": [
+      {
+        "question": "What is the largest ocean on Earth?",
+        "option": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Arctic Ocean",
+          "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean",
+        "parse": "The Pacific Ocean is the largest ocean on Earth."
+      }
+    ]
+  },
+  {
+    "input": "請生成 2 題 國小二年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "What is a baby chicken called?",
+        "option": [
+          "Puppy",
+          "Kitten",
+          "Chick",
+          "Calf"
+        ],
+        "answer": "Chick",
+        "parse": "A baby chicken is called a chick."
+      },
+      {
+        "question": "What color do you get when you mix red and white?",
+        "option": [
+          "Pink",
+          "Purple",
+          "Orange",
+          "Green"
+        ],
+        "answer": "Pink",
+        "parse": "Mixing red and white gives you pink."
+      }
+    ]
+  },
+  {
+    "input": "請生成 3 題 國小二年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "option": [
+          "Earth",
+          "Saturn",
+          "Jupiter",
+          "Mars"
+        ],
+        "answer": "Jupiter",
+        "parse": "Jupiter is the largest planet in our solar system."
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "option": [
+          "H2O",
+          "O2",
+          "CO2",
+          "NaCl"
+        ],
+        "answer": "H2O",
+        "parse": "The chemical symbol for water is H2O."
+      },
+      {
+        "question": "Which season comes after spring?",
+        "option": [
+          "Winter",
+          "Summer",
+          "Autumn",
+          "Fall"
+        ],
+        "answer": "Summer",
+        "parse": "Summer comes after spring."
+      }
+    ]
+  },
+  {
+    "input": "請生成 4 題 國小二年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "option": [
+          "32°F",
+          "0°F",
+          "100°F",
+          "50°F"
+        ],
+        "answer": "32°F",
+        "parse": "The freezing point of water in Fahrenheit is 32°F."
+      },
+      {
+        "question": "Which animal is known as the king of the jungle?",
+        "option": [
+          "Elephant",
+          "Lion",
+          "Tiger",
+          "Bear"
+        ],
+        "answer": "Lion",
+        "parse": "The lion is known as the king of the jungle."
+      },
+      {
+        "question": "What do you call the process of a caterpillar turning into a butterfly?",
+        "option": [
+          "Metamorphosis",
+          "Photosynthesis",
+          "Evolution",
+          "Migration"
+        ],
+        "answer": "Metamorphosis",
+        "parse": "The process of a caterpillar turning into a butterfly is called metamorphosis."
+      },
+      {
+        "question": "What is the main purpose of the roots of a plant?",
+        "option": [
+          "To produce flowers",
+          "To absorb water",
+          "To make food",
+          "To provide support"
+        ],
+        "answer": "To absorb water",
+        "parse": "The main purpose of the roots is to absorb water."
+      }
+    ]
+  },
+  {
+    "input": "請生成 5 題 國小二年級健康概念的選擇題題目",
+    "output": [
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "option": [
+          "Gold",
+          "Iron",
+          "Diamond",
+          "Quartz"
+        ],
+        "answer": "Diamond",
+        "parse": "Diamond is the hardest natural substance on Earth."
+      },
+      {
+        "question": "Which instrument is used to play music?",
+        "option": [
+          "Guitar",
+          "Calculator",
+          "Computer",
+          "Pencil"
+        ],
+        "answer": "Guitar",
+        "parse": "A guitar is a musical instrument."
+      },
+      {
+        "question": "What is the main source of energy for the Earth?",
+        "option": [
+          "Moon",
+          "Sun",
+          "Stars",
+          "Wind"
+        ],
+        "answer": "Sun",
+        "parse": "The Sun is the main source of energy for the Earth."
+      },
+      {
+        "question": "Which is the smallest continent?",
+        "option": [
+          "Asia",
+          "Europe",
+          "Australia",
+          "Africa"
+        ],
+        "answer": "Australia",
+        "parse": "Australia is the smallest continent."
+      },
+      {
+        "question": "What do you call the first ten amendments to the U.S. Constitution?",
+        "option": [
+          "The Declaration of Independence",
+          "The Bill of Rights",
+          "The Articles of Confederation",
+          "The Federalist Papers"
+        ],
+        "answer": "The Bill of Rights",
+        "parse": "The first ten amendments to the U.S. Constitution are known as the Bill of Rights."
+      }
+    ]
+  },
+  {
+    "input": "請生成 6 題 國小二年級英文概念的選擇題題目",
+    "output": [
+      [
+        {
+          "question": "Which gas do humans breathe in?",
+          "option": [
+            "Carbon Dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "answer": "Oxygen",
+          "parse": "Humans breathe in oxygen."
+        },
+        {
+          "question": "What is the tallest mountain in the world?",
+          "option": [
+            "K2",
+            "Kangchenjunga",
+            "Mount Everest",
+            "Lhotse"
+          ],
+          "answer": "Mount Everest",
+          "parse": "Mount Everest is the tallest mountain in the world."
+        },
+        {
+          "question": "Which planet is known as the 'Giant Planet'?",
+          "option": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Neptune"
+          ],
+          "answer": "Jupiter",
+          "parse": "Jupiter is known as the 'Giant Planet'."
+        },
+        {
+          "question": "What do you call a baby frog?",
+          "option": [
+            "Kitten",
+            "Puppy",
+            "Tadpole",
+            "Chick"
+          ],
+          "answer": "Tadpole",
+          "parse": "A baby frog is called a tadpole."
+        },
+        {
+          "question": "Which part of the plant is responsible for photosynthesis?",
+          "option": [
+            "Roots",
+            "Stem",
+            "Leaves",
+            "Flowers"
+          ],
+          "answer": "Leaves",
+          "parse": "Leaves are responsible for photosynthesis."
+        },
+        {
+          "question": "What is the main function of the heart?",
+          "option": [
+            "To digest food",
+            "To pump blood",
+            "To breathe",
+            "To think"
+          ],
+          "answer": "To pump blood",
+          "parse": "The main function of the heart is to pump blood."
+        }
+      ]
+    ]
+  },
+  {
+    "input": "請生成 7 題 國小二年級英文概念的選擇題題目",
+    "output": [
+      [
+        {
+          "question": "What do you call the large body of salt water?",
+          "option": [
+            "Lake",
+            "Ocean",
+            "River",
+            "Pond"
+          ],
+          "answer": "Ocean",
+          "parse": "An ocean is a large body of salt water."
+        },
+        {
+          "question": "What is the largest organ in the human body?",
+          "option": [
+            "Heart",
+            "Liver",
+            "Skin",
+            "Lung"
+          ],
+          "answer": "Skin",
+          "parse": "The skin is the largest organ in the human body."
+        },
+        {
+          "question": "Which animal is known for its ability to change colors?",
+          "option": [
+            "Chameleon",
+            "Elephant",
+            "Cheetah",
+            "Lion"
+          ],
+          "answer": "Chameleon",
+          "parse": "The chameleon is known for its ability to change colors."
+        },
+        {
+          "question": "What is the process of water turning into vapor called?",
+          "option": [
+            "Condensation",
+            "Evaporation",
+            "Precipitation",
+            "Sublimation"
+          ],
+          "answer": "Evaporation",
+          "parse": "The process of water turning into vapor is called evaporation."
+        },
+        {
+          "question": "Which of the following is a type of cloud?",
+          "option": [
+            "Cumulus",
+            "Tornado",
+            "Hurricane",
+            "Earthquake"
+          ],
+          "answer": "Cumulus",
+          "parse": "Cumulus is a type of cloud."
+        },
+        {
+          "question": "What is the primary language spoken in the United States?",
+          "option": [
+            "Spanish",
+            "English",
+            "French",
+            "German"
+          ],
+          "answer": "English",
+          "parse": "The primary language spoken in the United States is English."
+        },
+        {
+          "question": "What is the main purpose of a compass?",
+          "option": [
+            "Measure time",
+            "Tell temperature",
+            "Show direction",
+            "Calculate distance"
+          ],
+          "answer": "Show direction",
+          "parse": "A compass is used to show direction."
+        }
+      ]
+    ]
+  },
+  {
+    "input": "請生成 8 題 國小二年級英文概念的選擇題題目",
+    "output": [
+      [
+        {
+          "question": "What is the capital of France?",
+          "option": [
+            "Berlin",
+            "Madrid",
+            "Paris",
+            "Rome"
+          ],
+          "answer": "Paris",
+          "parse": "The capital of France is Paris."
+        },
+        {
+          "question": "Which animal is known for its long neck?",
+          "option": [
+            "Elephant",
+            "Giraffe",
+            "Tiger",
+            "Bear"
+          ],
+          "answer": "Giraffe",
+          "parse": "The giraffe is known for its long neck."
+        },
+        {
+          "question": "What is the main ingredient in bread?",
+          "option": [
+            "Sugar",
+            "Flour",
+            "Egg",
+            "Salt"
+          ],
+          "answer": "Flour",
+          "parse": "Flour is the main ingredient used in bread."
+        },
+        {
+          "question": "Which planet is closest to the sun?",
+          "option": [
+            "Earth",
+            "Venus",
+            "Mercury",
+            "Mars"
+          ],
+          "answer": "Mercury",
+          "parse": "Mercury is the closest planet to the sun."
+        },
+        {
+          "question": "What is the largest mammal in the world?",
+          "option": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Rhino"
+          ],
+          "answer": "Blue Whale",
+          "parse": "The blue whale is the largest mammal in the world."
+        },
+        {
+          "question": "Which continent is known as the 'Dark Continent'?",
+          "option": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "America"
+          ],
+          "answer": "Africa",
+          "parse": "Africa is often referred to as the 'Dark Continent'."
+        },
+        {
+          "question": "How many sides does a hexagon have?",
+          "option": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "6",
+          "parse": "A hexagon has six sides."
+        },
+        {
+          "question": "What do bees produce?",
+          "option": [
+            "Wax",
+            "Honey",
+            "Silk",
+            "Nectar"
+          ],
+          "answer": "Honey",
+          "parse": "Bees produce honey."
+        }
+      ]
+    ]
+  },
+  {
+    "input": "請生成 9 題 國小二年級英文概念的選擇題題目",
+    "output": [
+      [
+        {
+          "question": "How many continents are there?",
+          "option": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "7",
+          "parse": "There are seven continents in the world."
+        },
+        {
+          "question": "Which planet is known as the Red Planet?",
+          "option": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "answer": "Mars",
+          "parse": "Mars is known as the Red Planet due to its reddish appearance."
+        },
+        {
+          "question": "What is the smallest unit of life?",
+          "option": [
+            "Cell",
+            "Tissue",
+            "Organ",
+            "Organism"
+          ],
+          "answer": "Cell",
+          "parse": "The cell is the smallest unit of life."
+        },
+        {
+          "question": "Which gas do plants absorb for photosynthesis?",
+          "option": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+          ],
+          "answer": "Carbon Dioxide",
+          "parse": "Plants absorb carbon dioxide for photosynthesis."
+        },
+        {
+          "question": "What is the process by which plants make their own food?",
+          "option": [
+            "Respiration",
+            "Photosynthesis",
+            "Digestion",
+            "Evaporation"
+          ],
+          "answer": "Photosynthesis",
+          "parse": "Photosynthesis is the process by which plants make their own food."
+        },
+        {
+          "question": "What is the freezing point of water?",
+          "option": [
+            "0°C",
+            "100°C",
+            "50°C",
+            "25°C"
+          ],
+          "answer": "0°C",
+          "parse": "The freezing point of water is 0 degrees Celsius."
+        },
+        {
+          "question": "Which instrument is used to measure temperature?",
+          "option": [
+            "Barometer",
+            "Thermometer",
+            "Hygrometer",
+            "Anemometer"
+          ],
+          "answer": "Thermometer",
+          "parse": "A thermometer is used to measure temperature."
+        },
+        {
+          "question": "What do you call a scientist who studies rocks?",
+          "option": [
+            "Biologist",
+            "Chemist",
+            "Geologist",
+            "Physicist"
+          ],
+          "answer": "Geologist",
+          "parse": "A geologist studies rocks and the Earth's structure."
+        },
+        {
+          "question": "Which part of the plant absorbs water?",
+          "option": [
+            "Roots",
+            "Leaves",
+            "Stem",
+            "Flowers"
+          ],
+          "answer": "Roots",
+          "parse": "Roots absorb water from the soil."
+        }
+      ]
+    ]
+  },
+  {
+    "input": "請生成 10 題 國小二年級英文概念的選擇題題目",
+    "output": [
+      [
+        {
+          "question": "What color is the sky on a clear day?",
+          "option": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+          ],
+          "answer": "Blue",
+          "parse": "The sky appears blue when it is clear."
+        },
+        {
+          "question": "Which animal is known as 'man's best friend'?",
+          "option": [
+            "Cat",
+            "Dog",
+            "Bird",
+            "Fish"
+          ],
+          "answer": "Dog",
+          "parse": "Dogs are often called 'man's best friend' because they are loyal companions."
+        },
+        {
+          "question": "How many legs does a spider have?",
+          "option": [
+            "Four",
+            "Six",
+            "Eight",
+            "Ten"
+          ],
+          "answer": "Eight",
+          "parse": "Spiders have eight legs."
+        },
+        {
+          "question": "What is the capital of the United States?",
+          "option": [
+            "New York",
+            "Washington, D.C.",
+            "Los Angeles",
+            "Chicago"
+          ],
+          "answer": "Washington, D.C.",
+          "parse": "The capital of the United States is Washington, D.C."
+        },
+        {
+          "question": "Which fruit is yellow and curved?",
+          "option": [
+            "Apple",
+            "Banana",
+            "Grapes",
+            "Orange"
+          ],
+          "answer": "Banana",
+          "parse": "Bananas are yellow and have a curved shape."
+        },
+        {
+          "question": "What is 2 plus 2?",
+          "option": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "parse": "Two plus two equals four."
+        },
+        {
+          "question": "Which season comes after winter?",
+          "option": [
+            "Fall",
+            "Spring",
+            "Summer",
+            "Winter"
+          ],
+          "answer": "Spring",
+          "parse": "Spring comes after winter."
+        },
+        {
+          "question": "Which insect makes honey?",
+          "option": [
+            "Ant",
+            "Bee",
+            "Butterfly",
+            "Ladybug"
+          ],
+          "answer": "Bee",
+          "parse": "Bees are known for making honey."
+        },
+        {
+          "question": "What do you call a baby cat?",
+          "option": [
+            "Puppy",
+            "Kitten",
+            "Cub",
+            "Calf"
+          ],
+          "answer": "Kitten",
+          "parse": "A baby cat is called a kitten."
+        },
+        {
+          "question": "How many days are there in a week?",
+          "option": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "7",
+          "parse": "There are seven days in a week."
+        }
+      ]
+    ]
+  },
+  {
+    "input": "請生成 1 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 2 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 3 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 4 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 5 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  },
+  {
+    "input": "請生成 6 題 國小二年級英文概念的是非題題目",
+    "output": [
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      },
+      {
+        "question": "",
+        "answer": "",
+        "parse": ""
+      }
+    ]
+  }
+]
