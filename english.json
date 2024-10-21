@@ -16,7 +16,7 @@
     ]
   },
   {
-    "input": "請生成 2 題 國小二年級健康概念的選擇題題目",
+    "input": "請生成 2 題 國小二年級英文概念的選擇題題目",
     "output": [
       {
         "question": "What is a baby chicken called?",
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "input": "請生成 3 題 國小二年級健康概念的選擇題題目",
+    "input": "請生成 3 題 國小二年級英文概念的選擇題題目",
     "output": [
       {
         "question": "What is the largest planet in our solar system?",
@@ -81,7 +81,7 @@
     ]
   },
   {
-    "input": "請生成 4 題 國小二年級健康概念的選擇題題目",
+    "input": "請生成 4 題 國小二年級英文概念的選擇題題目",
     "output": [
       {
         "question": "What is the freezing point of water in Fahrenheit?",
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "input": "請生成 5 題 國小二年級健康概念的選擇題題目",
+    "input": "請生成 5 題 國小二年級英文概念的選擇題題目",
     "output": [
       {
         "question": "What is the hardest natural substance on Earth?",
