@@ -13,6 +13,7 @@ def convert_to_text(data):
         # 輸出 (output)
         for output in item['output']:
             question = output['question']
+            # print(question)
             level = output['level']
             tag = output['tag']
             if output.get('option') is not None:
