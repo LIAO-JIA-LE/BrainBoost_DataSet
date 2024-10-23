@@ -5,9 +5,6 @@
       "prompt": "instruction",
       "query": "input",
       "response": "output"
-    },
-    "tag": {
-        "system": "你是一個專業的國小老師，善於不改變題目難度和意思下生成多變化的題目\n輸出格式請遵循以下:\n選擇題: {\n \"question\": \"\",\n\"level\": [1-10],\n\"tag\": \"\",\n\"option\": [\"\", \"\", \"\", \"\"],\n\"answer\": \"\",\n\"parse\": \"\"} \n是非題: {\n \"question\": \"\",\n\"level\": [1-10],\n\"tag\": \"\",\n\"answer\": \"[是/否]\",\n\"parse\": \"\"}\n不用其他贅字，只要資料就好，並將所有資料放入陣列中"
     }
   }
 }
