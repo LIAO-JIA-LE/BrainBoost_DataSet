@@ -1,9 +1,11 @@
 [
   {
-    "input": "請生成 1 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 1 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "Ben, where ____ you?",
+        "level": 3,
+        "tag": "英文",
         "option": ["am", "is", "are", "be"],
         "answer": "are",
         "parse": "因為句子是在詢問Ben的位置，使用的是第二人稱 'you'，所以應該用動詞 'are'，答案是 'are'。"
@@ -11,16 +13,20 @@
     ]
   },
   {
-    "input": "請生成 2 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 2 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "A:___ the weather? B:It's rainy and windy. A:It's OK. Let's play in the living room.",
+        "level": 3,
+        "tag": "英文",
         "option": ["Who's", "Where's", "How's", "What's"],
         "answer": "How's",
         "parse": "這句對話的意思是詢問天氣如何，所以應該使用 'How's the weather?'，答案是 'How's'。"
       },
       {
         "question": "A: Where is Kevin? B: ___________.",
+        "level": 3,
+        "tag": "英文",
         "option": ["I'm here", "He's in the bedroom.", "He's my brother.", "She's my friend."],
         "answer": "He's in the bedroom.",
         "parse": "這裡的問題是詢問Kevin的位置，正確的回答是描述Kevin在哪裡，所以答案是 'He's in the bedroom."
@@ -28,22 +34,28 @@
     ]
   },
   {
-    "input": "請生成 3 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 3 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "The robot is ___ the bedroom.",
+        "level": 3,
+        "tag": "英文",
         "option": ["in", "on", "under", "next to"],
         "answer": "in",
         "parse": "句子在描述機器人的位置，機器人是在房間裡面，正確的介詞應該是 'in'，所以答案是 'in'。"
       },
       {
         "question": "A: Where is the bag? B:__________.",
+        "level": 3,
+        "tag": "英文",
         "option": ["It's under the chair.", "She's in the bedroom.", "I'm in the bathroom.", "He's at the door."],
         "answer": "It's under the chair.",
         "parse": "這個對話是在詢問包包的位置，正確的回答應該是描述包包的具體位置，答案是 'It's under the chair.'。"
       },
       {
         "question": "A: How much is the umbrella? B: ________________",
+        "level": 3,
+        "tag": "英文",
         "option": ["It’s 300 dollars.", "It’s 300 dollar.", "They’re 300 dollars.", "It’s 300dollars."],
         "answer": "It’s 300 dollars.",
         "parse": "這裡問的是一把雨傘的價格，應該用 'It’s 300 dollars.' 來回答，因為 'dollars' 是複數形式，表示金額，答案是 'It’s 300 dollars.'。"
@@ -51,28 +63,36 @@
     ]
   },
   {
-    "input": "請生成 4 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 4 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "A: Whose caps are they? B: ________________",
+        "level": 3,
+        "tag": "英文",
         "option": ["It’s Henry caps.", "It’s Henry’s caps.", "They’re Henry’s caps", "It’s Henry cap."],
         "answer": "They’re Henry’s caps.",
         "parse": "這個問題是詢問帽子是誰的，由於 'caps' 是複數，因此正確的回答應該是 'They’re Henry’s caps.'，答案是 'They’re Henry’s caps.'。"
       },
       {
         "question": "A: Here. This is your backpack. B: ________________",
+        "level": 3,
+        "tag": "英文",
         "option": ["You’re welcome.", "Thank you.", "It’s yummy.", "I’m sorry."],
         "answer": "Thank you.",
         "parse": "當對方給你背包時，最適合的回答是表示感謝，答案是 'Thank you.'。"
       },
       {
         "question": "A: ________________ B: Great! I’m happy! Let’s go",
+        "level": 3,
+        "tag": "英文",
         "option": ["Let’s go shopping.", "They are not good.", "It’s too expensive.", "I don't want to."],
         "answer": "Let’s go shopping.",
         "parse": "根據B的回答表示興奮和期待，因此最合適的對話開頭是 'Let’s go shopping.'，答案是 'Let’s go shopping.'。"
       },
       {
         "question": "A: Where are the kites? B: _____ on the bed.",
+        "level": 3,
+        "tag": "英文",
         "option": ["It’s", "We’re", "They’re", "There’s"],
         "answer": "They’re",
         "parse": "由於問的是風箏（kites），為複數形式，因此正確的回答是 'They’re on the bed.'。"
@@ -80,34 +100,44 @@
     ]
   },
   {
-    "input": "請生成 5 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 5 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "A: What are _____? B: They’re kites.",
+        "level": 3,
+        "tag": "英文",
         "option": ["this", "that", "those", "these"],
         "answer": "those",
         "parse": "根據問題，B的回答是指多個物體，'kites' 是複數，因此 'those' 是正確的問句形式。"
       },
       {
         "question": "It’s a  _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["dolls", "eraser", "yo-yo", "pencil"],
         "answer": "eraser",
         "parse": "正確的答案是 'eraser'，因為這是單數形式，與 'It’s a' 搭配。"
       },
       {
         "question": "They’re _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["robot", "balls", "horse", "books"],
         "answer": "balls",
         "parse": "這裡使用複數形式，'They’re balls.' 是正確的答案。"
       },
       {
         "question": "A: _____ the bag? B: It’s under the desk.",
+        "level": 3,
+        "tag": "英文",
         "option": ["What’s", "Where", "Where’s", "Who’s"],
         "answer": "Where’s",
         "parse": "詢問袋子的位置應該使用 'Where’s the bag?'，正確答案是 'Where’s'。"
       },
       {
         "question": "A: What does the dog do? B: It ____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["bark", "barks", "barked", "barking"],
         "answer": "barks",
         "parse": "根據主詞 'the dog' 是單數形式，因此動詞應使用 'barks'。"
@@ -115,40 +145,52 @@
     ]
   },
   {
-    "input": "請生成 6 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 6 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "My sister likes to _____ pizza.",
+        "level": 3,
+        "tag": "英文",
         "option": ["eat", "eats", "eating", "ate"],
         "answer": "eat",
         "parse": "這裡應使用不定式 'eat'，因為 'likes to' 後面接動詞原形。"
       },
       {
         "question": "A: What is your favorite color? B: ____ is blue.",
+        "level": 3,
+        "tag": "英文",
         "option": ["My", "I", "She", "He"],
         "answer": "My",
         "parse": "要回答最愛顏色，應使用 'My' 來表示自己的。"
       },
       {
         "question": "A: _____ you play soccer? B: Yes, I do.",
+        "level": 3,
+        "tag": "英文",
         "option": ["Do", "Are", "Is", "Can"],
         "answer": "Do",
         "parse": "詢問是否會踢足球，應使用 'Do you play soccer?'。"
       },
       {
         "question": "A: I have a pet cat. B: What ____ its name?",
+        "level": 3,
+        "tag": "英文",
         "option": ["is", "are", "was", "were"],
         "answer": "is",
         "parse": "詢問貓的名字時，應使用 'What is its name?'。"
       },
       {
         "question": "A: _____ are you today? B: I’m feeling great!",
+        "level": 3,
+        "tag": "英文",
         "option": ["How", "What", "Where", "When"],
         "answer": "How",
         "parse": "詢問狀況時應使用 'How are you today?'。"
       },
       {
         "question": "The flowers are _____ than the trees.",
+        "level": 3,
+        "tag": "英文",
         "option": ["more pretty", "prettier", "prettyer", "most pretty"],
         "answer": "prettier",
         "parse": "使用比較級形式 'prettier'，來形容花比樹更漂亮。"
@@ -156,46 +198,60 @@
     ]
   },
   {
-    "input": "請生成 7 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 7 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "They _____ to school every day.",
+        "level": 3,
+        "tag": "英文",
         "option": ["walk", "walked", "walking", "walks"],
         "answer": "walk",
         "parse": "這裡使用動詞原形 'walk'，因為主詞是複數 'They'。"
       },
       {
         "question": "A: What is this animal? B: It's a _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["tiger", "tigers", "tiger's", "tigered"],
         "answer": "tiger",
         "parse": "回答應使用單數形式 'tiger'。"
       },
       {
         "question": "A: Where is the book? B: It’s _____ the table.",
+        "level": 3,
+        "tag": "英文",
         "option": ["on", "in", "under", "over"],
         "answer": "on",
         "parse": "位置的回答應使用 'on'，表示在桌子上。"
       },
       {
         "question": "A: What color is your car? B: It’s _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["blue", "blues", "bluely", "more blue"],
         "answer": "blue",
         "parse": "回答應使用顏色的單數形式 'blue'。"
       },
       {
         "question": "I _____ my homework after dinner.",
+        "level": 3,
+        "tag": "英文",
         "option": ["do", "does", "doing", "did"],
         "answer": "do",
         "parse": "根據主詞 'I'，應使用動詞原形 'do'。"
       },
       {
         "question": "A: What time is it? B: It’s _____ o’clock.",
+        "level": 3,
+        "tag": "英文",
         "option": ["two", "twos", "twice", "two's"],
         "answer": "two",
         "parse": "回答時間時使用整數形式 'two'。"
       },
       {
         "question": "A: Can you help me? B: Sure, I _____ help you.",
+        "level": 3,
+        "tag": "英文",
         "option": ["can", "will", "may", "must"],
         "answer": "can",
         "parse": "用於請求幫助的回答應使用 'can'。"
@@ -203,52 +259,68 @@
     ]
   },
   {
-    "input": "請生成 8 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 8 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "There are many _____ in the garden.",
+        "level": 3,
+        "tag": "英文",
         "option": ["flowers", "flower", "flowered", "flowery"],
         "answer": "flowers",
         "parse": "名詞應用複數形式 'flowers'，表示花的數量。"
       },
       {
         "question": "A: What do you want to eat? B: I want a _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["sandwich", "sandwiches", "sandwicher", "sandwiching"],
         "answer": "sandwich",
         "parse": "根據上下文，應使用單數名詞 'sandwich'。"
       },
       {
         "question": "A: How old is your dog? B: It’s _____ years old.",
+        "level": 3,
+        "tag": "英文",
         "option": ["three", "threes", "three's", "thrice"],
         "answer": "three",
         "parse": "回答年齡時使用整數形式 'three'。"
       },
       {
         "question": "We are going to the _____ tomorrow.",
+        "level": 3,
+        "tag": "英文",
         "option": ["beach", "beaches", "beachy", "beached"],
         "answer": "beach",
         "parse": "這裡應使用單數形式 'beach'，表示去海灘。"
       },
       {
         "question": "A: Where are we going? B: We’re going to the _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["park", "parks", "parking", "parked"],
         "answer": "park",
         "parse": "回答應使用單數名詞 'park'，表示公園。"
       },
       {
         "question": "My favorite fruit is _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["apple", "apples", "applying", "apple's"],
         "answer": "apple",
         "parse": "根據上下文，應使用單數名詞 'apple'。"
       },
       {
         "question": "A: Do you have a pet? B: Yes, I have a _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["dog", "dogs", "dogged", "dog's"],
         "answer": "dog",
         "parse": "回答應使用單數名詞 'dog'，表示有一隻狗。"
       },
       {
         "question": "A: What do you see? B: I see a _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["bird", "birds", "birdy", "bird's"],
         "answer": "bird",
         "parse": "回答應使用單數名詞 'bird'，表示一隻鳥。"
@@ -256,58 +328,76 @@
     ]
   },
   {
-    "input": "請生成 9 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 9 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "A: Where is my pencil? B: It’s _____ your desk.",
+        "level": 3,
+        "tag": "英文",
         "option": ["on", "in", "at", "over"],
         "answer": "on",
         "parse": "回答應使用 'on'，表示在桌子上。"
       },
       {
         "question": "A: Do you like ice cream? B: Yes, I _____!",
+        "level": 3,
+        "tag": "英文",
         "option": ["do", "does", "did", "doing"],
         "answer": "do",
         "parse": "回答應使用 'do'，表示喜歡冰淇淋。"
       },
       {
         "question": "A: What can you do? B: I can _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["swim", "swims", "swimming", "swum"],
         "answer": "swim",
         "parse": "回答應使用動詞原形 'swim'，表示會游泳。"
       },
       {
         "question": "They are _____ in the classroom.",
+        "level": 3,
+        "tag": "英文",
         "option": ["studying", "study", "studies", "studied"],
         "answer": "studying",
         "parse": "根據主詞 'They'，應使用動名詞 'studying'，表示他們正在學習。"
       },
       {
         "question": "A: How do you go to school? B: I go by _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["bus", "buses", "bus's", "bussing"],
         "answer": "bus",
         "parse": "回答應使用單數名詞 'bus'，表示搭乘公車。"
       },
       {
         "question": "A: What do you want to be? B: I want to be a _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["teacher", "teachers", "teach", "teaching"],
         "answer": "teacher",
         "parse": "回答應使用單數名詞 'teacher'，表示想成為一名老師。"
       },
       {
         "question": "A: Where does your friend live? B: She lives _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["near", "nearby", "nearer", "nearest"],
         "answer": "near",
         "parse": "應用副詞 'near' 表示她住得很近。"
       },
       {
         "question": "He _____ to play basketball every weekend.",
+        "level": 3,
+        "tag": "英文",
         "option": ["likes", "like", "liking", "liked"],
         "answer": "likes",
         "parse": "根據主詞 'He'，應使用動詞 'likes'。"
       },
       {
         "question": "A: What do you do after school? B: I usually _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["play", "plays", "playing", "played"],
         "answer": "play",
         "parse": "回答應使用動詞原形 'play'，表示放學後的活動。"
@@ -315,64 +405,84 @@
     ]
   },
   {
-    "input": "請生成 10 題 國小四年級英文概念的選擇題題目",
+    "input": "請生成 10 題 國小四年級英文科目的選擇題題目",
     "output": [
       {
         "question": "The sun _____ in the sky.",
+        "level": 3,
+        "tag": "英文",
         "option": ["shine", "shines", "shining", "shined"],
         "answer": "shines",
         "parse": "根據主詞 'The sun'，應使用動詞 'shines'。"
       },
       {
         "question": "My brother is _____ than me.",
+        "level": 3,
+        "tag": "英文",
         "option": ["older", "old", "oldest", "more old"],
         "answer": "older",
         "parse": "在比較時使用 'older'，表示哥哥比我年長。"
       },
       {
         "question": "A: Can you speak English? B: Yes, I can _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["speak", "speaks", "speaking", "spoke"],
         "answer": "speak",
         "parse": "回答應使用動詞原形 'speak'。"
       },
       {
         "question": "A: What is your favorite animal? B: I love _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["dogs", "dog", "dogged", "dogging"],
         "answer": "dogs",
         "parse": "回答應使用名詞複數形式 'dogs'，表示喜愛狗。"
       },
       {
         "question": "A: What is your hobby? B: I like _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["drawing", "draw", "drew", "draws"],
         "answer": "drawing",
         "parse": "回答應使用動名詞 'drawing'，表示愛好。"
       },
       {
         "question": "The cake tastes _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["sweet", "sweeter", "sweetest", "more sweet"],
         "answer": "sweet",
         "parse": "使用形容詞原形 'sweet'，描述蛋糕的味道。"
       },
       {
         "question": "A: How is the weather today? B: It’s _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["sunny", "sun", "sunned", "sunnyly"],
         "answer": "sunny",
         "parse": "回答應使用形容詞 'sunny'，表示今天的天氣。"
       },
       {
         "question": "A: Where do you go on vacation? B: I go to the _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["mountains", "mountain", "mountaineer", "mountaining"],
         "answer": "mountains",
         "parse": "回答應使用名詞複數形式 'mountains'，表示去山區。"
       },
       {
         "question": "My favorite season is _____.",
+        "level": 3,
+        "tag": "英文",
         "option": ["summer", "summers", "summery", "summed"],
         "answer": "summer",
         "parse": "根據上下文，應使用單數名詞 'summer'，表示喜愛的季節。"
       },
       {
         "question": "I enjoy _____ books in my free time.",
+        "level": 3,
+        "tag": "英文",
         "option": ["reading", "read", "reads", "readed"],
         "answer": "reading",
         "parse": "這裡應使用動名詞 'reading'，表示興趣。"
@@ -380,325 +490,435 @@
     ]
   },
   {
-    "input": "請生成 1 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 1 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Apple' a type of fruit?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Apple'的確是一種水果。"
       }
     ]
   },
   {
-    "input": "請生成 2 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 2 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Can a fish fly?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "魚是水中的生物，並不能飛。"
       },
       {
         "question": "Is 'Monday' a part of the week?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Monday'確實是星期的一部分。"
       }
     ]
   },
   {
-    "input": "請生成 3 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 3 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Dog' an animal?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Dog'確實是一種動物。"
       },
       {
         "question": "Is 'Cat' a type of plant?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Cat'不是植物，而是動物。"
       },
       {
         "question": "Does the sun shine?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "太陽會發光並照亮地球。"
       }
     ]
   },
   {
-    "input": "請生成 4 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 4 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Red' a color?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Red'的確是一種顏色。"
       },
       {
         "question": "Is 'Fish' a type of bird?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Fish'不是鳥類，而是水中的生物。"
       },
       {
         "question": "Can you see the moon at night?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "在夜晚可以看到月亮。"
       },
       {
         "question": "Is 'Ball' a type of food?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Ball'不是食物，而是玩具。"
       }
     ]
   },
   {
-    "input": "請生成 5 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 5 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Water' wet?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Water'是濕的。"
       },
       {
         "question": "Is 'Sky' below us?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Sky'在我們的頭上，而不是在下面。"
       },
       {
         "question": "Is 'Apple' a fruit?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Apple'確實是一種水果。"
       },
       {
         "question": "Is 'Car' a type of animal?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Car'不是動物，而是交通工具。"
       },
       {
         "question": "Does 'Grass' grow?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Grass'會生長。"
       }
     ]
   },
   {
-    "input": "請生成 6 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 6 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Water' dry?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Water'是濕的，不是乾的。"
       },
       {
         "question": "Can birds fly?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "大多數鳥類可以飛。"
       },
       {
         "question": "Is 'Pizza' a vegetable?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Pizza'不是蔬菜，而是食物。"
       },
       {
         "question": "Is 'Sun' hot?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Sun'非常熱。"
       },
       {
         "question": "Is 'Chocolate' sweet?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Chocolate'通常是甜的。"
       },
       {
         "question": "Is 'Ice' hot?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Ice'是冷的，而不是熱的。"
       }
     ]
   },
   {
-    "input": "請生成 7 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 7 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Earth' a planet?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Earth'確實是一顆行星。"
       },
       {
         "question": "Can 'Fish' live on land?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Fish'無法在陸地上生存。"
       },
       {
         "question": "Is 'Mountain' high?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Mountain'通常是高的。"
       },
       {
         "question": "Is 'Laptop' a type of drink?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Laptop'不是飲料，而是電子產品。"
       },
       {
         "question": "Does 'Rain' fall from the sky?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Rain'會從天空落下。"
       },
       {
         "question": "Is 'Bicycle' a kind of fruit?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Bicycle'不是水果，而是交通工具。"
       },
       {
         "question": "Is 'Clock' used to tell time?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Clock'是用來告訴時間的。"
       }
     ]
   },
   {
-    "input": "請生成 8 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 8 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Dog' a pet?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Dog'通常是人們的寵物。"
       },
       {
         "question": "Is 'Moon' a star?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Moon'不是恆星，而是地球的衛星。"
       },
       {
         "question": "Can 'Elephant' swim?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Elephant'可以游泳。"
       },
       {
         "question": "Is 'Bread' a type of meat?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Bread'不是肉類，而是食物的一種。"
       },
       {
         "question": "Is 'Fish' found in water?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Fish'通常在水中生活。"
       },
       {
         "question": "Is 'Orange' a color?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Orange'同時也是一種顏色。"
       },
       {
         "question": "Can 'Ant' fly?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Ant'不能飛。"
       },
       {
         "question": "Is 'Teacher' a job?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Teacher'是一種職業。"
       }
     ]
   },
   {
-    "input": "請生成 9 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 9 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Spoon' used for drinking?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Spoon'通常是用來吃東西的，而不是喝。"
       },
       {
         "question": "Is 'Flower' a plant?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Flower'是一種植物。"
       },
       {
         "question": "Is 'Chair' something you eat?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Chair'不是食物，而是一種家具。"
       },
       {
         "question": "Can 'Frog' jump?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Frog'可以跳。"
       },
       {
         "question": "Is 'Camera' used to cook?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Camera'不是用來烹飪的，而是用來拍照的。"
       },
       {
         "question": "Is 'Ice cream' cold?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Ice cream'是冷的。"
       },
       {
         "question": "Is 'Grass' blue?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Grass'是綠色的，而不是藍色。"
       },
       {
         "question": "Is 'Candy' sweet?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Candy'通常是甜的。"
       },
       {
         "question": "Is 'Train' a type of food?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Train'不是食物，而是交通工具。"
       }
     ]
   },
   {
-    "input": "請生成 10 題 國小四年級英文概念的是非題題目",
+    "input": "請生成 10 題 國小四年級英文科目的是非題題目",
     "output": [
       {
         "question": "Is 'Star' bright?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Star'在夜空中是明亮的。"
       },
       {
         "question": "Is 'Piano' a kind of animal?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Piano'不是動物，而是一種樂器。"
       },
       {
         "question": "Is 'Cat' a type of animal?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Cat'是一種動物。"
       },
       {
         "question": "Can 'Bird' swim?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Bird'通常不會游泳。"
       },
       {
         "question": "Is 'Water' wet?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Water'是濕的。"
       },
       {
         "question": "Is 'Pizza' a type of fruit?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Pizza'不是水果，而是食物的一種。"
       },
       {
         "question": "Is 'Mountain' high?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Mountain'通常是高的。"
       },
       {
         "question": "Is 'Bicycle' a kind of vehicle?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Bicycle'是一種交通工具。"
       },
       {
         "question": "Is 'Butterfly' a bug?",
+        "level": 3,
+        "tag": "英文",
         "answer": "是",
         "parse": "'Butterfly'是一種昆蟲。"
       },
       {
         "question": "Is 'Computer' used to cook food?",
+        "level": 3,
+        "tag": "英文",
         "answer": "否",
         "parse": "'Computer'不是用來烹飪食物的。"
       }
