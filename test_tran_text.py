@@ -63,10 +63,10 @@ def read_and_convert_file(file_path):
 #     return text
 
 # 指定要讀取的檔案路徑
-json_path = "test_1.json"
+json_path = "test_2.json"
 
 # 指定要讀取的檔案路徑
-file_path = "fine_tuning_dataset.json"
+file_path = "fine_tuning_dataset_2.json"
 
 # 轉換並輸出
 text_output = read_and_convert_file(json_path)
