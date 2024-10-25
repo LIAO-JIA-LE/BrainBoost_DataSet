@@ -9,6 +9,7 @@ def convert_to_text(data):
         count = 0
         instruction = item['input']
         text_data.append("{\n" + f"\"instruction\": \"{instruction}\",\n")
+        text_data.append("\"input\": \"\",\n")
         text_data.append("\"output\": \"[\\n")
         # 輸出 (output)
         for output in item['output']:

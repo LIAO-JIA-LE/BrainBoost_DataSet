@@ -1,6 +1,6 @@
 {
-  "fin_tuning_dataset": {
-    "file_name": "fin_tuning_dataset.json",
+  "fine_tuning_dataset": {
+    "file_name": "fine_tuning_dataset.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
