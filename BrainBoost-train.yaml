@@ -1,0 +1,66 @@
+bf16: true
+cutoff_len: 2400
+dataset: fine_tuning_dataset
+dataset_dir: data
+ddp_timeout: 180000000
+do_train: true
+finetuning_type: lora
+flash_attn: auto
+gradient_accumulation_steps: 8
+include_num_input_tokens_seen: true
+learning_rate: 5.0e-05
+logging_steps: 5
+lora_alpha: 16
+lora_dropout: 0
+lora_rank: 10
+lora_target: all
+lr_scheduler_type: cosine
+max_grad_norm: 1.0
+max_samples: 100000
+model_name_or_path: Qwen/Qwen2.5-7B
+num_train_epochs: 10.0
+optim: adamw_torch
+output_dir: saves/Qwen2.5-7B/lora/BrainBoost-train-1
+packing: false
+per_device_train_batch_size: 2
+plot_loss: true
+preprocessing_num_workers: 16
+report_to: none
+save_steps: 100
+stage: sft
+template: default
+warmup_steps: 0
+
+# llamafactory-cli train \
+#     --stage sft \
+#     --do_train True \
+#     --model_name_or_path Qwen/Qwen2.5-7B \
+#     --preprocessing_num_workers 16 \    
+#     --finetuning_type lora \
+#     --template default \            
+#     --flash_attn auto \                 
+#     --dataset_dir data \
+#     --dataset fine_tuning_dataset \     # 
+#     --cutoff_len 2000 \                 # 截斷長度
+#     --learning_rate 2e-05 \             # 學習率
+#     --num_train_epochs 10.0 \           # 訓練輪數
+#     --max_samples 100000 \
+#     --per_device_train_batch_size 2 \   # 每個訓練裝置的批次大小
+#     --gradient_accumulation_steps 5 \   # 梯度累積步驟
+#     --lr_scheduler_type cosine \        
+#     --max_grad_norm 1.0 \
+#     --logging_steps 5 \                            
+#     --save_steps 100 \                  
+#     --warmup_steps 0 \
+#     --optim adamw_torch \
+#     --packing False \
+#     --report_to none \
+#     --output_dir saves/Qwen2.5-7B/lora/BrainBoost-train-1 \
+#     --bf16 True \
+#     --plot_loss True \
+#     --ddp_timeout 180000000 \
+#     --include_num_input_tokens_seen True \
+#     --lora_rank 5 \                     # Lora矩陣的秩大小
+#     --lora_alpha 16 \                   # Lora矩陣的縮放系數
+#     --lora_dropout 0 \                  # Lora矩陣的dropout
+#     --lora_target all                   # Lora矩陣的目標

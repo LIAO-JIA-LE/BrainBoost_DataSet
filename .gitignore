@@ -8,3 +8,4 @@
 !*.json
 !*.py
 !System Prompt.txt
+!*.yaml
